@@ -47,6 +47,22 @@
 
 * Movement
 
+ Movement is done in 2 ways 
+ 1. Snap Movement 
+ 2. Body Movement + Teleportation 
+ 
+ Snap movement allows players to move and rotate by small increments with the use of the thumbstick. This is used if the player wants to sit on a chair and experience the game without turning their body. 
+ 
+ Body movement and teleportation allows the player to use their body to rotate and pointing to teleport. This is used if the player wants to experience a more immersive game but replicating bodily movement to virtual movement 
+ 
+ *Insert image of me pointing the ground*
+ 
+ Here we see the player pointing to the ground to indicate on where they want to move 
+ 1. Green means that they are allowed to move there 
+ 2. Red means that they are NOT allowed to move there
+ 
+ As mentioned before, crouching reduces the range of movement
+ 
 * Crouching
 
   Players can crouch in real life to execute the action of crouching in game 
