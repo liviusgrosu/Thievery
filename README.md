@@ -1,11 +1,11 @@
 # Thievery
 
 ##### Table of Contents  
-[Objective](#objective) 
-[Mechanics](#mechanics)
-[Controls](#controls)
-[Equipment](#equipment)
-[Installation + Download](#installation + download)  
+* [Objective](#objective) 
+* [Mechanics](#mechanics)
+* [Controls](#controls)
+* [Equipment](#equipment)
+* [Installation](#installation)  
 
 <a name="headers"/>
 
@@ -144,6 +144,6 @@
  * Oculus Left Controller
  * Oculus Cameras (x2)
  
-## Installation + Download:
+## Installation:
  
   Executable download and instructions to play located on my website: https://liviusgrosu.ca/portfolio/thievery/
