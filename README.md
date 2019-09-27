@@ -134,4 +134,15 @@
 | Grab               | LT (Hold) + Grab object + LT (Release)                            |
 | Crouch             | (Physically crouch in real life)                                  |
 
-Installation:
+
+## Equipment:
+
+ * Oculus Rift Headset
+ * Oculus Left Controller
+ * Oculus Cameras (x2)
+
+## Installation:
+
+ 1. Download all files (If downloaded as a ‘.zip’ file then extract it to a preferred directory)
+ 2. Click on ‘THIEVERY.exe’
+ 3. Once the title screen is finished, press ‘H’ or click on the top right button
