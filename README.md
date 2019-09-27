@@ -16,12 +16,60 @@
 
 ## Mechanics:
 
-Light Visibility 
+* Player Visibility 
+ 
+  The players visibility to other entities in game is in relation to 2 things. 
+  1. How close they are to a light source 
+  2. If there is an obstruction between the light source and the player
+  
+  The players visibility variable is measured on a scale that ranges between 1 - 5 (not visible - visible)
+  
+  *Insert image of scale*
+  
+  Here we can see how that scale is represented in the UI 
+  
+  Depending on the relation between how far a player is to an enemy and their visibilty variable dictates the enemies ability to spot them
 
-Sound Detection
+* Player Sound 
 
-Stealing 
+  The players sound detection to other entities in game is in relation to 2 things. 
+  1. What material the player is standing on
+  2. The stance the player has taken 
+  3. How frequent the player is producing sound 
+  
+  The players sound production variable is measured on a scale that ranges between 1 - 5 (quiet - loud)
+  
+  *Insert image of scale*
+  
+  Here we can see how that scale is represented in the UI 
+  
+  Depending on the relation between how far a player is to an enemy and their sound detection variable dictates the enemies ability to hear them
 
+* Movement
+
+* Crouching
+
+  Players can crouch in real life to execute the action of crouching in game 
+
+  Crouching changes the players visibility and sound detection variables by half. However by performing this action, your teleportation distance is also decreased to half which means the player produces more sound when moving around. 
+  
+  *Show crouching changes the visibility and sound detection UI*
+  
+  A UI image indicates wether the player is crouching or not 
+
+* Leaning 
+
+  Players can lean in real life to execute the action of leaning in game.
+  
+  This allows the player to peek around corners without exposing their body to enemies 
+  
+  *Insert image of player leaning*
+  
+  *Insert me leaning in real life*
+
+* Enemy AI 
+
+* World Interaction 
 
 ## Controls:
 
