@@ -85,7 +85,42 @@
 
 * Enemy AI 
 
+  The enemy entities have 4 states:
+  1. Patroling
+     - Enemies assume their patrol path by walking in it or just standing and rotating every a specified amount of seconds
+     - Enemies have no knowledge of player precense
+  2. Suspicious 
+     - Enemy barely hears or barely sees the player but are unsure about their presence 
+     - If the player continues to put the enemy in this state but remaining barely seen or barely heard then the enemy will investitage
+     - If not, then the enemy will remain in this state until they calm down and go back to their patrolling state
+  3. Investigative
+     - The enemy breaks out of there patrolling route/pattern and investigates the last know player position 
+     - If the player continues to remain in the enemys barely seen viewing cone or hearing sphere then this updates the enemies last player position 
+     - Once the enemy sees the player then they will transition to the alert state 
+     - If the player escapes the viewing cone or hearing sphere and the enemy reaches the last player position, then they go back to patrolling
+  4. Alert 
+     - The player will speed walk to the last player position regardless if they barely see or barely hear the player
+     - If the player escapes the viewing cone or hearing sphere and the enemy reaches the last player position, then they go back to the investigative state 
+     
+  Of course, if the player is caught by one of the enemies then they are sent back to the start of the level with 1 less life     
+    
 * World Interaction 
+
+  Players can interact with 3 things in the virtual world:
+  1. Doors 
+  2. Loot 
+  3. Chests 
+  
+  With doors and chests, player imitate the action of opening them like you would in real life:
+  1. Grab the handle with the left trigger and hold 
+  2. Swing it open (doors go through you so you dont have to step back)
+  3. Releasing the handle by releasing the left trigger 
+  
+  *Insert image of opening a door and chest*
+  
+  Doors can used as a form of cover as you can open it ajar, lean into the opening, and observer 
+  
+  *Insert image of peaking through a door*
 
 ## Controls:
 
