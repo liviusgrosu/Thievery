@@ -1,11 +1,24 @@
 # Thievery
-A Unity VR game where you take the role of a thief and steal loot
 
+##### Table of Contents  
+[Headers](#controls)  
+[Emphasis](#emphasis)  
+<a name="headers"/>
 
-Objective:
+## Objective:
 
-Mechanics:
+## Mechanics:
 
-Controls:
+## Controls:
+
+| Actions            | Key                                                               |
+| ------------------ | ----------------------------------------------------------------- |
+| Snap Left Turn     | Thumbstick (Left)                                                 |
+| Snap Right Turn    | Thumbstick (Right)                                                |
+| Snap Forward Move  | Thumbstick (Up)                                                   |
+| Snap Backward Move | Thumbstick (Down)                                                 |
+| Teleport           | LT Index (Hold) + Point to floor until green + LT Index (Release) |
+| Grab               | LT (Hold) + Grab object + LT (Release)                            |
+| Crouch             | (Physically crouch in real life)                                  |
 
 Installation:
