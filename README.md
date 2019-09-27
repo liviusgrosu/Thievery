@@ -1,68 +1,14 @@
 # Thievery
 
 ##### Table of Contents  
-[Headers](#controls)  
-[Emphasis](#emphasis)  
+[Objective](#mechanics)  
+[Controls](#controls)  
+[Mechanics](#mechanics)  
 <a name="headers"/>
 
 ## Objective:
 
 ## Mechanics:
-
-
-
-
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-.
-
-.
-
-
-
 
 ## Controls:
 
