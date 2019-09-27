@@ -1,9 +1,12 @@
 # Thievery
 
 ##### Table of Contents  
-[Objective](#mechanics)  
-[Controls](#controls)  
-[Mechanics](#mechanics)  
+[Objective](#objective) 
+[Mechanics](#mechanics)
+[Controls](#controls)
+[Equipment](#equipment)
+[Installation + Download](#installation + download)  
+
 <a name="headers"/>
 
 ## Objective:
@@ -140,9 +143,7 @@
  * Oculus Rift Headset
  * Oculus Left Controller
  * Oculus Cameras (x2)
-
-## Installation:
-
- 1. Download all files (If downloaded as a ‘.zip’ file then extract it to a preferred directory)
- 2. Click on ‘THIEVERY.exe’
- 3. Once the title screen is finished, press ‘H’ or click on the top right button
+ 
+## Installation + Download:
+ 
+  Executable download and instructions to play located on my website: https://liviusgrosu.ca/portfolio/thievery/
