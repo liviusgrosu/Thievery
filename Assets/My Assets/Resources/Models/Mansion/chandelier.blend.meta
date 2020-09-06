@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 7f14e4d75bca71949a7da857cf62984e
+timeCreated: 1554739914
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle
+    100004: Circle_001
+    100006: Circle_002
+    100008: Circle_003
+    100010: Circle_004
+    100012: Circle_005
+    100014: Circle_006
+    100016: Circle_007
+    100018: Circle_008
+    100020: Plane
+    100022: Plane_001
+    100024: Plane_002
+    100026: Plane_003
+    100028: Plane_004
+    100030: Plane_005
+    100032: Plane_006
+    100034: Plane_007
+    400000: //RootNode
+    400002: Circle
+    400004: Circle_001
+    400006: Circle_002
+    400008: Circle_003
+    400010: Circle_004
+    400012: Circle_005
+    400014: Circle_006
+    400016: Circle_007
+    400018: Circle_008
+    400020: Plane
+    400022: Plane_001
+    400024: Plane_002
+    400026: Plane_003
+    400028: Plane_004
+    400030: Plane_005
+    400032: Plane_006
+    400034: Plane_007
+    2100000: unnamed
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_005
+    2300012: Circle_006
+    2300014: Circle_007
+    2300016: Circle_008
+    2300018: Plane
+    2300020: Plane_001
+    2300022: Plane_002
+    2300024: Plane_003
+    2300026: Plane_004
+    2300028: Plane_005
+    2300030: Plane_006
+    2300032: Plane_007
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_005
+    3300012: Circle_006
+    3300014: Circle_007
+    3300016: Circle_008
+    3300018: Plane
+    3300020: Plane_001
+    3300022: Plane_002
+    3300024: Plane_003
+    3300026: Plane_004
+    3300028: Plane_005
+    3300030: Plane_006
+    3300032: Plane_007
+    4300000: Plane_007
+    4300002: Plane_006
+    4300004: Plane_005
+    4300006: Plane_004
+    4300008: Plane_003
+    4300010: Plane_002
+    4300012: Plane_001
+    4300014: Plane
+    4300016: Circle_008
+    4300018: Circle_007
+    4300020: Circle_006
+    4300022: Circle_005
+    4300024: Circle_004
+    4300026: Circle_003
+    4300028: Circle_002
+    4300030: Circle_001
+    4300032: Circle
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

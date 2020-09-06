@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 19290b9100d3b56409baa7151396aa98
+timeCreated: 1554685914
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Books
+    100002: Books_001
+    100004: Books_002
+    100006: Books_003
+    100008: Books_004
+    100010: Books_005
+    100012: //RootNode
+    100014: Plane
+    100016: Books_000
+    100018: Shelves
+    100020: Shelves_s
+    400000: Books
+    400002: Books_001
+    400004: Books_002
+    400006: Books_003
+    400008: Books_004
+    400010: Books_005
+    400012: //RootNode
+    400014: Plane
+    400016: Books_000
+    400018: Shelves
+    400020: Shelves_s
+    2100000: unnamed
+    2100002: Material
+    2100004: Material__bookshelf_1
+    2100006: Material__bookshelves_jpg
+    2100008: None__bookshelf_1
+    2300000: Books
+    2300002: Books_001
+    2300004: Books_002
+    2300006: Books_003
+    2300008: Books_004
+    2300010: Books_005
+    2300012: Plane
+    2300014: Books_000
+    2300016: Shelves
+    2300018: Shelves_s
+    3300000: Books
+    3300002: Books_001
+    3300004: Books_002
+    3300006: Books_003
+    3300008: Books_004
+    3300010: Books_005
+    3300012: Plane
+    3300014: Books_000
+    3300016: Shelves
+    3300018: Shelves_s
+    4300000: Plane
+    4300002: Books_005
+    4300004: Books_004
+    4300006: Books_003
+    4300008: Books_002
+    4300010: Books_001
+    4300012: Books
+    4300014: Books_000
+    4300016: Shelves
+    4300018: Shelves_s
+    6400000: Books_000
+    6400002: Books_001
+    6400004: Books_002
+    6400006: Books_003
+    6400008: Books_004
+    6400010: Books_005
+    6400012: Plane
+    6400014: Shelves
+    6400016: Shelves_s
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
