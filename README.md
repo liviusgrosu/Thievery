@@ -1,5 +1,4 @@
-![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%201.png)
-![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%202.png)
+![screenshot1](https://raw.githubusercontent.com/liviusgrosu/Thievery/master/Pictures/Title%20Card.png)
 
 # Thievery
 
@@ -17,6 +16,7 @@
 * Every time you get caught, you lose a life and begin back at the front door
 * Lose all 3 lives and you lose the game
 
+https://user-images.githubusercontent.com/1690449/119239281-75851100-bb1e-11eb-9ca1-67a9f0d02de9.mp4
 
 ## Mechanics:
 
@@ -37,6 +37,8 @@
 
 ##  
 
+![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%205.png)
+
 *   **Player Sound** 
 
     The players sound detection to other entities in game is in relation to 2 things. 
@@ -53,6 +55,8 @@
     Depending on the relation between how far a player is to an enemy and their sound detection variable dictates the enemies ability to hear them  
 
 ##  
+
+![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%204.png)
 
 *   **Movement**
 
@@ -72,6 +76,8 @@
  
     As mentioned before, crouching reduces the range of movement  
 ##  
+
+![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%202.png)
 
 *   **Crouching**
 
@@ -94,6 +100,8 @@
   
     *Insert me leaning in real life*  
 ##  
+
+![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%203.png)
 
 *   **Enemy AI** 
 
@@ -138,6 +146,8 @@
     *Insert image of peaking through a door*
 ##  
 
+![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%201.png)
+
 ## Controls:
 
 | Actions            | Key                                                               |
@@ -160,9 +170,3 @@
 ## Installation:
  
   Executable download and instructions to play located on my website: https://liviusgrosu.ca/portfolio/thievery/
-  
-  
-
-![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%203.png)
-![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%204.png)
-![screenshot1](https://bitbucket.org/liviusgrosu/thievery/raw/master/Documentation/screenshot%205.png)
